@@ -1,0 +1,5 @@
+ * Variables: sirve para guardar un dato en el sistema, que después se va a usar. 
+ * Strings: es un conjunto de caracteres, que no son identificados como letras o numeros por más que esté compuesto de ellos. Para que un conjunto de caracteres se convierta en string, debe estar entrecomillado. 
+ * Funciones (argumentos, `return`) las funciones se utilizan para indicarle a la computadora que realice o no una accion. Las mismas necesitan parentesis para funcionar.
+ * Declaraciones `if` sirve para determinar si, dada cierta condicion, un resultado es true o false. y, de cumpirse a condicion, ejecute la instruccion que deseemos.
+ * Valores booleanos (`true`, `false`) son aqueos que solo admiten dos respuestas, negativa o positiva (true o false)

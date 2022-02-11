@@ -1,0 +1,4 @@
+* `for` la utiizacion de for indica hasta cuando debe funcionar un bucle que realiza una tarea repetitiva.
+* `&&`: reemplaza a "y". sirve para evaluar todas las opciones comprendidas entre este simbolo y devolverá resultados si todos cumplen con el requisito estabecido.}
+ `||`, reemplaza a "o" sirve para evaluar todas las opciones comprendidas entre este simbolo y devoverá resutado si alguna de elas cumplen con el requisito establecido}
+  `!` se utiliza para crear una negacion. al poner este simbolo delante de ago, estamos buscando algo distinto a eso.

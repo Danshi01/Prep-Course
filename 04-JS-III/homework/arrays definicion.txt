@@ -1,0 +1,2 @@
+
+* Arrays: sirven para almacenar una determinada cantidad de datos en una seccion. contiene una coeccion de datos.
